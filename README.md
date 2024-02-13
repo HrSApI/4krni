@@ -47,4 +47,4 @@ TOKEN=BOT_TOKEN
 - ### [Youtube](https://www.youtube.com/@Mr_HrS)
 - ### [Instagram](https://www.instagram.com/hrs_serv/)
 - ### [Tik Tok](https://www.tiktok.com/@mr_hrs_)
-- ### [GitHub](https://github.com/RlxChap2)
+- ### [GitHub](https://github.com/HrSApI)
